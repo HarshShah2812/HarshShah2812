@@ -1,4 +1,7 @@
 ### Hi there, welcome to my repo 👋
+### About me:
+I'm a Junior Data Engineer based in the UK
+
 🔭 Keep an eye out for more interesting projects such as the ones shown below
 
 📫 How to reach me: Harsh.Shah2812@outlook.com / [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-shah-338450101/)
