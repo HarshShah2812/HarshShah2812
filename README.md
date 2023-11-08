@@ -1,7 +1,7 @@
 ### Hi there, welcome to my repo 👋
 🔭 Keep an eye out for more interesting projects such as the ones shown below
 
-📫 How to reach me: Harsh.Shah2812@outlook.com / [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/harsh-shah-338450101)
+📫 How to reach me: Harsh.Shah2812@outlook.com / [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-shah-338450101/)
 <!--
 **HarshShah2812/HarshShah2812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
