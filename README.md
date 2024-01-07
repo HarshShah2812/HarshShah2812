@@ -2,7 +2,7 @@
 ### About me:
 I'm a Junior Data Engineer based in the UK
 
-🔭 Take a look at my latest [project] (https://github.com/HarshShah2812/youtube-data-analysis.git)
+🔭 Take a look at my latest [project](https://github.com/HarshShah2812/youtube-data-analysis.git)
 
 📫 How to reach me: Harsh.Shah2812@outlook.com / [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-shah-338450101/)
 <!--
